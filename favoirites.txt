@@ -2,3 +2,6 @@ line1 added
 dosa
 idli
 pongal
+rajini
+kamal
+MGR
